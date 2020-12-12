@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.taskform {
+  margin-top: 30px;
+}
+
+.newday {
+  font-size: 20px;
+  margin-top: 20px;
+}
